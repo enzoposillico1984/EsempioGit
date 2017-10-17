@@ -6,7 +6,7 @@ public class HelloWorldGit {
 		// Questa classe esempio riguarda Git
 		System.out.println("Hello world from gitHub");
 		// pippo
-
+		//pluto
 	}
 
 }
